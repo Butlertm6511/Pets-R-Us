@@ -563,3 +563,19 @@ input[type="submit"] {
 input[type="submit"]:hover{
     background-color: #0f3638;
 }
+
+.rates{
+font-family: 'Source Sans Pro';
+font-size: x-large;
+
+}
+
+.rates h2{
+    background-color: #8dd6da;
+    color: #333;
+
+}
+
+hr{
+    color: #545353;
+}
